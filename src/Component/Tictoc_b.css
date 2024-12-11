@@ -1,6 +1,7 @@
 .button-head{
     display: flex;
     flex-direction: column;
+    margin-top: 30px;
 }
 .buttons{
     display: flex;

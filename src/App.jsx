@@ -125,6 +125,7 @@ function App() {
 
   return (
     <div className="container">
+       <h1 style={{marginBottom:'49px',color:'green',fontFamily:'fantasy'}}>Fill both boards with numbers 1-9 brfore starting</h1>
       <div className="container1">
         <Tic_toc1
           board={board1}
